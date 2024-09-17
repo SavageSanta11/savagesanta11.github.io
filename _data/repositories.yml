@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - savagesanta11
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - savagesanta11/RAG-Private-Company-Document
+  - Social-AI-Studio/MATK
+  - savagesanta11/50.021-AI-Neural-Style-Transfer
+  - savagesanta11/tourista
+  - savagesanta11/collaborative-text-editor
+  - savagesanta11/Tic-Tac-Tech
