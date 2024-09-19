@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Publicis Sapient as a Software Engineer Intern.
+Joined [Publicis Sapient](https://www.publicissapient.com/) as a Software Engineer Intern.
