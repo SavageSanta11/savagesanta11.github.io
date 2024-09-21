@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work 'Bridging Modalities: Enhancing Cross-Modality Hate Speech Detection with Few-Shot In-Context Learning' [EMNLP 24] Main Conference (https://2024.emnlp.org/)!
+Our work 'Bridging Modalities: Enhancing Cross-Modality Hate Speech Detection with Few-Shot In-Context Learning' [EMNLP 24 Main Conference] (https://2024.emnlp.org/)!
