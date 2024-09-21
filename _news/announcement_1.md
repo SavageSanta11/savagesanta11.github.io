@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the Business Optical Character Recognition Team at [SAP Labs](https://www.sap.com/sea/about/company/innovation/labs.html#asia)  as a Full-stack Developer Intern
+Joined the Business Optical Character Recognition Team at [SAP Labs](https://www.sap.com/sea/about/company/innovation/labs.html#asia) as a Full-stack Developer Intern
