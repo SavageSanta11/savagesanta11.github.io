@@ -6,114 +6,115 @@
     - name: Email
       value: akumares@andrew.cmu.edu
     - name: Location
-      value: Pittsburgh, PA, United States
+      value: "Pittsburgh, PA, United States"
     - name: GitHub
-      value: <a href="https://github.com/SavageSanta11">SavageSanta11</a>
+      value: '<a href="https://github.com/SavageSanta11">SavageSanta11</a>'
     - name: LinkedIn
-      value: <a href="https://linkedin.com/in/aditikumaresan/">aditikumaresan</a>
+      value: '<a href="https://linkedin.com/in/aditikumaresan/">aditikumaresan</a>'
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Intelligent Information Systems (MIIS)
-      institution: Carnegie Mellon University, School of Computer Science
-      year: 2026 - 2027
-      location: Pittsburgh, PA, USA
+    - title: "Master of Science in Intelligent Information Systems (MIIS)"
+      institution: "Carnegie Mellon University, School of Computer Science"
+      year: "2026 - 2027"
+      location: "Pittsburgh, PA, USA"
       description:
-        - Graduate study in School of Computer Science focusing on Intelligent Information Systems.
-    - title: Bachelor of Engineering in Computer Science (Minor in Artificial Intelligence)
-      institution: Singapore University of Technology and Design (SUTD)
-      year: 2020 - 2024
-      location: Singapore
+        - "Graduate study in School of Computer Science focusing on Intelligent Information Systems."
+    - title: "Bachelor of Engineering in Computer Science (Minor in Artificial Intelligence)"
+      institution: "Singapore University of Technology and Design (SUTD)"
+      year: "2020 - 2024"
+      location: "Singapore"
       description:
-        - Graduated with Honours and Distinction.
-        - Semester Abroad at University of Maryland, College Park: Awarded Semester Academic Honours for exceptional performance.
+        - "Graduated with Honours and Distinction."
+        - "Semester Abroad at University of Maryland, College Park: Awarded Semester Academic Honours for exceptional performance."
 
 - title: Experience
   type: time_table
   contents:
-    - title: Pre-doctoral Researcher
-      institution: Google DeepMind
-      year: 2025 - 2026
+    - title: "Pre-doctoral Researcher"
+      institution: "Google DeepMind"
+      year: "2025 - 2026"
       description:
-        - title: ProEval: Proactive Failure Discovery and Efficient Performance Estimation for AI Evaluation (Dr. Zi Wang)
+        - title: "ProEval: Proactive Failure Discovery and Efficient Performance Estimation for AI Evaluation (Dr. Zi Wang)"
           contents:
-            - Developed an active evaluation framework that estimates model performance and discovers failures using Bayesian inference.
-            - Improved sample efficiency through transfer-learned Gaussian Process surrogates that eliminate cold-start evaluation.
-            - Reduced evaluation cost by 65× while uncovering 5× more diverse failures across 16 LLMs/VLMs.
-        - title: Steering for Multilingual Fact Recall in Vision-Language Models (Dr. Laura Rimell)
+            - "Developed an active evaluation framework that estimates model performance and discovers failures using Bayesian inference."
+            - "Improved sample efficiency through transfer-learned Gaussian Process surrogates that eliminate cold-start evaluation."
+            - "Reduced evaluation cost by 65× while uncovering 5× more diverse failures across 16 LLMs/VLMs."
+        - title: "Steering for Multilingual Fact Recall in Vision-Language Models (Dr. Laura Rimell)"
           contents:
-            - Developed mechanistic analyses for VLMs using activation patching to identify the circuits responsible for cross-lingual failures.
-            - Discovered that multilingual performance gaps arise from late-layer query-key attention routing, not missing factual knowledge.
-            - Showed that text-derived steering vectors transfer across modalities, recovering up to 17% multilingual accuracy.
-        - title: Improving Cultural Awareness in Gemini (Shachi Dave, Dr. Partha Talukdar, Dr. Bidisha Samanta)
+            - "Developed mechanistic analyses for VLMs using activation patching to identify the circuits responsible for cross-lingual failures."
+            - "Discovered that multilingual performance gaps arise from late-layer query-key attention routing, not missing factual knowledge."
+            - "Showed that text-derived steering vectors transfer across modalities, recovering up to 17% multilingual accuracy."
+        - title: "Improving Cultural Awareness in Gemini (Shachi Dave, Dr. Partha Talukdar, Dr. Bidisha Samanta)"
           contents:
-            - Improved cultural alignment across 6 locales by developing a reference-guided critique reward signal for RLHF fine-tuning.
-            - Designed an agentic, information-theoretic evaluation framework that adaptively maximises expected information gain to characterise foundation models' knowledge boundaries.
-    - title: Research Assistant
-      institution: Social AI Studio, Singapore University of Technology and Design (SUTD)
-      year: 2024 - 2025
+            - "Improved cultural alignment across 6 locales by developing a reference-guided critique reward signal for RLHF fine-tuning."
+            - "Designed an agentic, information-theoretic evaluation framework that adaptively maximises expected information gain to characterise foundation models' knowledge boundaries."
+    - title: "Research Assistant"
+      institution: "Social AI Studio, Singapore University of Technology and Design (SUTD)"
+      year: "2024 - 2025"
       description:
-        - title: SEAHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages (Dr. Roy Ka-Wei Lee)
+        - title: "SEAHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages (Dr. Roy Ka-Wei Lee)"
           contents:
-            - Built the first functional hate speech detection benchmark for 8 Southeast Asian languages, covering 19 functional tests.
-            - Engineered a LoRA fine-tuning+evaluation pipeline for 12 LLMs using PEFT to systematically benchmark the suite.
-            - Quantified sociolinguistic gaps across Age, Disability, and Gender, exposing systematic LLM failures on protected categories.
-        - title: MATK: The Meme Analytical Toolkit (Dr. Roy Ka-Wei Lee)
+            - "Built the first functional hate speech detection benchmark for 8 Southeast Asian languages, covering 19 functional tests."
+            - "Engineered a LoRA fine-tuning+evaluation pipeline for 12 LLMs using PEFT to systematically benchmark the suite."
+            - "Quantified sociolinguistic gaps across Age, Disability, and Gender, exposing systematic LLM failures on protected categories."
+        - title: "MATK: The Meme Analytical Toolkit (Dr. Roy Ka-Wei Lee)"
           contents:
-            - Built a plug-and-play framework for hateful meme classification, unifying 8 datasets and 7 models behind a single training interface.
-            - Built YAML-driven experiment orchestration for meme classification, eliminating code changes when swapping datasets or models.
-            - Leveraged Integrated Gradients to diagnose VLM biases, revealing over-reliance on text features over multimodal reasoning.
-    - title: Software Engineer Intern
-      institution: Publicis Sapient
-      year: 2023
+            - "Built a plug-and-play framework for hateful meme classification, unifying 8 datasets and 7 models behind a single training interface."
+            - "Built YAML-driven experiment orchestration for meme classification, eliminating code changes when swapping datasets or models."
+            - "Leveraged Integrated Gradients to diagnose VLM biases, revealing over-reliance on text features over multimodal reasoning."
+    - title: "Software Engineer Intern"
+      institution: "Publicis Sapient"
+      year: "2023"
       description:
-        - Built a RAG conversational AI system with LangChain and a Kafka pipeline for real-time city data ingestion into a vector store.
-        - Implemented RESTful APIs to support multi-turn conversation memory, concurrent usage, and enhanced conversational context.
-        - Set up Prometheus-Grafana observability stack and a GitLab CI/CD pipeline that reduced build lead time by 2 hours.
-    - title: Full Stack Developer Intern
-      institution: SAP AI Labs
-      year: 2022
+        - "Built a RAG conversational AI system with LangChain and a Kafka pipeline for real-time city data ingestion into a vector store."
+        - "Implemented RESTful APIs to support multi-turn conversation memory, concurrent usage, and enhanced conversational context."
+        - "Set up Prometheus-Grafana observability stack and a GitLab CI/CD pipeline that reduced build lead time by 2 hours."
+    - title: "Full Stack Developer Intern"
+      institution: "SAP AI Labs"
+      year: "2022"
       description:
-        - Expanded document processing capabilities by integrating barcode and QR code recognition across 8 document formats.
-        - Redesigned microservices with domain-driven design to improve scalability and reliability across 3 services.
-        - Built automated Docker vulnerability triaging workflows using Protecode and Groovy, reducing manual security review.
+        - "Expanded document processing capabilities by integrating barcode and QR code recognition across 8 document formats."
+        - "Redesigned microservices with domain-driven design to improve scalability and reliability across 3 services."
+        - "Built automated Docker vulnerability triaging workflows using Protecode and Groovy, reducing manual security review."
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2025
+    - year: "2025"
       items:
-        - Google Pre-doctoral Research Program: Selected as 1 of 12 researchers from over 30,000 applicants for the 2025 cohort.
-        - Google DeepMind Recognition: Awarded 3 peer bonuses and 1 spot bonus for research contributions across different projects.
-    - year: 2023
+        - "Google Pre-doctoral Research Program: Selected as 1 of 12 researchers from over 30,000 applicants for the 2025 cohort."
+        - "Google DeepMind Recognition: Awarded 3 peer bonuses and 1 spot bonus for research contributions across different projects."
+    - year: "2023"
       items:
-        - 3rd Place, Cisco Webex Hackathon: Won 3rd place out of 250 teams for the project Hidden Emergency Contact System.
-        - Semester Academic Honours: University of Maryland, College Park.
+        - "3rd Place, Cisco Webex Hackathon: Won 3rd place out of 250 teams for the project Hidden Emergency Contact System."
+        - "Semester Academic Honours: University of Maryland, College Park."
 
 - title: Skills
   type: nested_list
   contents:
     - title: Languages
       items:
-        - Python, C++, Java, Dart, SQL
+        - "Python, C++, Java, Dart, SQL"
     - title: Technologies & Cloud
       items:
-        - Docker, Kubernetes, Spark, Kafka, GCP, GitLab, Git
+        - "Docker, Kubernetes, Spark, Kafka, GCP, GitLab, Git"
     - title: Frameworks & Libraries
       items:
-        - PyTorch, TensorFlow, JAX, Xmanager, HuggingFace, PEFT, Matplotlib, Scikit-Learn, Streamlit, LangChain, OpenCV
+        - "PyTorch, TensorFlow, JAX, Xmanager, HuggingFace, PEFT, Matplotlib, Scikit-Learn, Streamlit, LangChain, OpenCV"
 
 - title: Research Interests
   type: nested_list
   contents:
     - title: Active AI Evaluation & Failure Discovery
       items:
-        - Transfer-learned Bayesian inference, Gaussian Process surrogates, adaptive sample-efficient benchmark testing.
+        - "Transfer-learned Bayesian inference, Gaussian Process surrogates, adaptive sample-efficient benchmark testing."
     - title: Mechanistic Interpretability & Representation Steering
       items:
-        - Activation patching, circuit identification, cross-lingual and cross-modal attention routing, steering vectors.
+        - "Activation patching, circuit identification, cross-lingual and cross-modal attention routing, steering vectors."
     - title: Multilingual, Multimodal Alignment & Safety
       items:
-        - Reference-guided critique RLHF reward modeling, low-resource NLP/VLM benchmarks, hateful meme classification.
+        - "Reference-guided critique RLHF reward modeling, low-resource NLP/VLM benchmarks, hateful meme classification."
+
 
