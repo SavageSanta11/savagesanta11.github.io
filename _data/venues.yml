@@ -1,41 +1,42 @@
 "ICML '26":
   url: https://icml.cc/
-  color: "#0055a5"
+  color: "#73e6c3"
 
 "ICML":
   url: https://icml.cc/
-  color: "#0055a5"
+  color: "#73e6c3"
 
 "AAAI '27":
   url: https://aaai.org/
-  color: "#2b5b84"
+  color: "#73e6c3"
 
 "AAAI":
   url: https://aaai.org/
-  color: "#2b5b84"
+  color: "#73e6c3"
 
 "TALLIP '26":
   url: https://dl.acm.org/journal/tallip
-  color: "#008080"
+  color: "#73e6c3"
 
 "TALLIP":
   url: https://dl.acm.org/journal/tallip
-  color: "#008080"
+  color: "#73e6c3"
 
 "EMNLP '24":
   url: https://2024.emnlp.org/
-  color: "#b31b1b"
+  color: "#73e6c3"
 
 "EMNLP":
   url: https://2024.emnlp.org/
-  color: "#b31b1b"
+  color: "#73e6c3"
 
 "ACM MM '23":
   url: https://www.acmmm2023.org/
-  color: "#d9534f"
+  color: "#73e6c3"
 
 "ACM MM":
   url: https://www.acmmm2023.org/
-  color: "#d9534f"
+  color: "#73e6c3"
+
 
 
