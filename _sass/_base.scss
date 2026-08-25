@@ -700,21 +700,19 @@ footer.sticky-bottom {
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          color: #111827;
-          font-weight: 600;
+          color: white;
           margin-bottom: 0.5rem;
 
           a {
-            color: #111827;
+            color: white;
 
             &:hover {
               text-decoration: none;
-              color: #000000;
             }
           }
 
           div {
-            color: #111827;
+            color: white;
           }
         }
 

@@ -30,12 +30,12 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-$mint-color: #73e6c3 !default;
-$mint-color-dark: #3bba94 !default;
+$sage-color: #638f80 !default;
+$sage-color-dark: darken(#638f80, 10%);
 
 // Theme colors
 
-$code-bg-color-light: rgba($mint-color, 0.1);
+$code-bg-color-light: rgba($sage-color, 0.08);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
