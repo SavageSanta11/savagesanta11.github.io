@@ -28,7 +28,8 @@ a {
   transition: color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
   color: var(--primary-hover);
   text-decoration: underline;
 }
@@ -42,7 +43,10 @@ p {
   margin: 0 0 14px 0;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   color: #111111;
   font-weight: 700;
   margin-top: 24px;
@@ -100,13 +104,14 @@ h2 {
 .profile-photo {
   width: 100%;
   max-width: 220px;
-  border-radius: 50%;
+  aspect-ratio: 1 / 1;
+  height: auto;
   object-fit: cover;
+  border-radius: 0;
   box-shadow: 0 4px 14px rgba(99, 143, 128, 0.25);
   border: 3px solid #ffffff;
   display: block;
   margin: auto;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .profile-photo:hover {
@@ -299,21 +304,25 @@ h2 {
   .main-table {
     padding: 15px 12px;
   }
+
   .profile-table tr {
     display: flex;
     flex-direction: column-reverse;
     align-items: center;
   }
+
   .profile-photo {
     max-width: 160px;
     margin-bottom: 15px;
   }
+
   .pub-badge-cell {
     width: auto;
     display: block;
     text-align: left;
     padding-bottom: 0px;
   }
+
   .pub-content-cell {
     display: block;
     padding-left: 0px;
